@@ -29,7 +29,7 @@ const aboutMe = {
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/maría-kuttel-133915223/" target="_blank" style="text-align: center; width: 100%;"><span style="font-size: 40px; color: #fff;">☛  </span><img align="center" src="./linkedinLogo.jpg" alt="Linkedin of María Kuttel" height="50" width="50" /><span style="font-size: 40px; color: #fff;">  ☚</span></a>
+<a href="https://www.linkedin.com/in/maría-kuttel-133915223/" target="_blank" style="text-align: center; width: 100%;"><span style="font-size: 40px; color: #fff;">☛  </span><img align="center" src="./linkedinLogo.png" alt="Linkedin of María Kuttel" height="50" width="50" /><span style="font-size: 40px; color: #fff;">  ☚</span></a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript" width="40" height="40"/> </a> 
