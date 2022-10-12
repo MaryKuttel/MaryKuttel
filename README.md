@@ -49,7 +49,7 @@ const aboutMe = {
 <h3 align="center">GitHub Stats & Most Used Lenguages</h3>
 
 <p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=MaryKuttel&show_icons=true&locale=en&theme=tokyonight" alt="Mary´s Stats" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MaryKuttel&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Mary´s Lenguages"></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=MaryKuttel&show_icons=true&locale=en&theme=aura" alt="Mary´s Stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MaryKuttel&show_icons=true&locale=en&layout=compact&theme=aura" alt="Mary´s Lenguages"></p>
 
 </br>
